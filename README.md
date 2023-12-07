@@ -1,4 +1,4 @@
 # Description
-Digital Image Processing
-Purpose: beautify a face image
-Main idea: get the skin and apply blurring -> reapply to original image
+- Topic: Digital Image Processing
+- Purpose: Beautifying the skin, reduce wrinkles and acne spots.
+- Idea: Segmentation of the skin using color tone -> apply blurring to segmentation -> reapply to original image
